@@ -1,0 +1,49 @@
+{
+  "businessName": "Jolian Corporate Services",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Engineering Excellence in Manufacturing Solutions",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Jolian Corporate Services - Your trusted manufacturing partner in Delta State. We deliver precision, quality, and reliability in every project we undertake. From concept to completion, we bring your manufacturing needs to life with cutting-edge solutions and unmatched expertise.",
+      "imagePrompt": "A modern Nigerian manufacturing facility with state-of-the-art machinery, workers in safety gear operating industrial equipment, bright natural lighting streaming through large windows, clean organized factory floor with metal fabrication tools, professional industrial setting in Delta State Nigeria, photorealistic, high quality",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Jolian Corporate Services is a leading manufacturing enterprise based in Ughelli North, Delta State. We specialize in providing comprehensive manufacturing solutions tailored to meet the diverse needs of businesses across Nigeria. Our facility at Flat 85 Nepa Estate Ighwre Ovie serves as a hub of innovation and quality production. With years of experience and a commitment to excellence, we have established ourselves as a reliable partner for companies seeking superior manufacturing services. Our team of skilled professionals combines technical expertise with industry best practices to deliver results that exceed expectations. We pride ourselves on our attention to detail, adherence to safety standards, and dedication to customer satisfaction.",
+      "imagePrompt": "Professional Nigerian manufacturing team in company branded uniforms standing proudly in front of their facility, modern industrial building exterior with Jolian Corporate Services signage, Delta State architecture, blue sky, well-maintained compound, photorealistic corporate photography style",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "At Jolian Corporate Services, we offer a comprehensive range of manufacturing solutions designed to meet your business needs:\n\n**Custom Manufacturing** - Tailored production services to bring your unique product designs to life with precision and quality.\n\n**Industrial Fabrication** - Expert metal fabrication and welding services for construction, infrastructure, and industrial projects.\n\n**Quality Control & Inspection** - Rigorous testing and inspection protocols to ensure every product meets international standards.\n\n**Product Assembly** - Efficient assembly line operations for small to medium-scale production runs.\n\n**Maintenance & Repairs** - Comprehensive maintenance services for industrial equipment and machinery.\n\n**Consulting Services** - Expert guidance on manufacturing processes, efficiency optimization, and production planning.\n\nWe work with businesses across various sectors including construction, oil and gas, agriculture, and infrastructure development.",
+      "imagePrompt": "Grid layout of Nigerian manufacturing processes: welding sparks flying, CNC machine cutting metal, quality inspector with measuring tools, assembly line workers, industrial machinery maintenance, manufacturing consultation meeting, all in modern Nigerian industrial setting, professional photography, bright industrial lighting",
+      "layout": "grid"
+    },
+    {
+      "id": "whychooseus",
+      "name": "Why Choose Jolian",
+      "copy": "**Local Expertise, Global Standards** - As a Delta State-based manufacturer, we understand the unique needs of Nigerian businesses while maintaining international quality benchmarks.\n\n**Experienced Team** - Our skilled technicians and engineers bring decades of combined manufacturing experience to every project.\n\n**State-of-the-Art Equipment** - We invest in modern machinery and tools to ensure precision, efficiency, and superior results.\n\n**Timely Delivery** - We respect your deadlines and work diligently to complete projects on schedule without compromising quality.\n\n**Competitive Pricing** - Get exceptional value for your investment with our transparent, competitive pricing structure.\n\n**Customer-Centric Approach** - Your satisfaction is our priority. We maintain open communication and adapt to your specific requirements throughout the production process.",
+      "imagePrompt": "Split image showcasing Nigerian manufacturing excellence: left side shows precision equipment and quality certifications on wall, right side shows happy client shaking hands with Jolian team member in manufacturing facility, professional business atmosphere, natural lighting, photorealistic",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to discuss your manufacturing needs? Get in touch with Jolian Corporate Services today. Our team is available to answer your questions, provide quotes, and schedule consultations.\n\n**Visit Our Facility:**\nFlat 85 Nepa Estate Ighwre Ovie\nUghelli, Delta State\nUghelli North, Nigeria\n\n**Call Us:**\n+234 815 273 3977\n+234 704 794 5340\n\n**Business Hours:**\nMonday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM\nSunday: Closed\n\nWhether you're looking for a one-time project or a long-term manufacturing partnership, we're here to help. Reach out today and let's build something exceptional together.",
+      "imagePrompt": "Welcoming reception area of Nigerian manufacturing company, professional receptionist at modern desk, company logo on wall, comfortable seating area, large windows showing factory floor in background, clean professional environment, Delta State business setting, warm natural lighting, photorealistic",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 815 273 3977",
+    "email": "info@joliancorporate.com",
+    "address": "Flat 85 Nepa Estate Ighwre Ovie, Ughelli, Delta State, Nigeria",
+    "whatsapp": "https://wa.me/2348152733977"
+  }
+}
