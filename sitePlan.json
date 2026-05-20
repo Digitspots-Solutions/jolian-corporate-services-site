@@ -1,49 +1,56 @@
 {
-  "businessName": "Jolian Corporate Services",
-  "industry": "Manufacturing",
-  "tone": "professional",
-  "tagline": "Engineering Excellence in Manufacturing Solutions",
+  "businessName": "G-Celeb Cakes Juice & Smoothie Co",
+  "industry": "FoodTech",
+  "tone": "warm, inviting, health-conscious",
+  "tagline": "Fresh Cold-Pressed Goodness, Delivered to Your Doorstep",
   "sections": [
     {
       "id": "hero",
       "name": "Hero",
-      "copy": "Welcome to Jolian Corporate Services - Your trusted manufacturing partner in Delta State. We deliver precision, quality, and reliability in every project we undertake. From concept to completion, we bring your manufacturing needs to life with cutting-edge solutions and unmatched expertise.",
-      "imagePrompt": "A modern Nigerian manufacturing facility with state-of-the-art machinery, workers in safety gear operating industrial equipment, bright natural lighting streaming through large windows, clean organized factory floor with metal fabrication tools, professional industrial setting in Delta State Nigeria, photorealistic, high quality",
+      "copy": "Welcome to G-Celeb Cakes Juice & Smoothie Co – Where Health Meets Flavour in Every Sip. Experience the finest cold-pressed juices, wholesome smoothies, and delicious cakes crafted with love in Ughelli, Delta State. Fresh ingredients, zero preservatives, pure Nigerian goodness. Order now and taste the difference!",
+      "imagePrompt": "Vibrant Nigerian juice bar counter with fresh tropical fruits including oranges, watermelon, pineapple, and carrots arranged beautifully, colorful cold-pressed juice bottles in glass containers, modern blender, warm morning sunlight streaming through windows, inviting atmosphere, photorealistic, high quality, warm tones",
       "layout": "centered"
     },
     {
       "id": "about",
       "name": "About Us",
-      "copy": "Jolian Corporate Services is a leading manufacturing enterprise based in Ughelli North, Delta State. We specialize in providing comprehensive manufacturing solutions tailored to meet the diverse needs of businesses across Nigeria. Our facility at Flat 85 Nepa Estate Ighwre Ovie serves as a hub of innovation and quality production. With years of experience and a commitment to excellence, we have established ourselves as a reliable partner for companies seeking superior manufacturing services. Our team of skilled professionals combines technical expertise with industry best practices to deliver results that exceed expectations. We pride ourselves on our attention to detail, adherence to safety standards, and dedication to customer satisfaction.",
-      "imagePrompt": "Professional Nigerian manufacturing team in company branded uniforms standing proudly in front of their facility, modern industrial building exterior with Jolian Corporate Services signage, Delta State architecture, blue sky, well-maintained compound, photorealistic corporate photography style",
+      "copy": "G-Celeb Cakes Juice & Smoothie Co (also known as G-Celeb Cakes Cold-Press Beverages Limited) is Ughelli's premier FoodTech destination for health-conscious Nigerians who refuse to compromise on taste. Founded by an Aquaculture Tech innovator with a passion for wellness, we combine technology with traditional Nigerian flavours to bring you cold-pressed juices, nutrient-packed smoothies, and freshly baked cakes that fuel your body and delight your senses. From our home in Ughelli North, Delta State, we're revolutionizing how Nigerians enjoy healthy beverages – one fresh bottle at a time.",
+      "imagePrompt": "Modern Nigerian food preparation facility with stainless steel cold-press juice machines, young Nigerian entrepreneur in chef's whites inspecting fresh produce, shelves of bottled colorful juices, clean hygienic environment, natural lighting, professional food tech setup, photorealistic",
       "layout": "split"
     },
     {
       "id": "services",
-      "name": "Our Services",
-      "copy": "At Jolian Corporate Services, we offer a comprehensive range of manufacturing solutions designed to meet your business needs:\n\n**Custom Manufacturing** - Tailored production services to bring your unique product designs to life with precision and quality.\n\n**Industrial Fabrication** - Expert metal fabrication and welding services for construction, infrastructure, and industrial projects.\n\n**Quality Control & Inspection** - Rigorous testing and inspection protocols to ensure every product meets international standards.\n\n**Product Assembly** - Efficient assembly line operations for small to medium-scale production runs.\n\n**Maintenance & Repairs** - Comprehensive maintenance services for industrial equipment and machinery.\n\n**Consulting Services** - Expert guidance on manufacturing processes, efficiency optimization, and production planning.\n\nWe work with businesses across various sectors including construction, oil and gas, agriculture, and infrastructure development.",
-      "imagePrompt": "Grid layout of Nigerian manufacturing processes: welding sparks flying, CNC machine cutting metal, quality inspector with measuring tools, assembly line workers, industrial machinery maintenance, manufacturing consultation meeting, all in modern Nigerian industrial setting, professional photography, bright industrial lighting",
+      "name": "Our Offerings",
+      "copy": "Cold-Pressed Juices: Pure, unpasteurized juices extracted using hydraulic press technology to preserve maximum nutrients. Choose from Orange Sunrise, Watermelon Refresh, Carrot Glow, and seasonal Nigerian fruit blends.\n\nSignature Smoothies: Creamy, protein-rich smoothies made with fresh fruits, yogurt, and natural sweeteners. Perfect for breakfast or post-workout recovery.\n\nFresh Cakes: Moist, delicious cakes baked daily for celebrations, corporate events, or simply treating yourself. Custom orders available.\n\nBulk Orders & Subscriptions: Weekly juice deliveries for offices, gyms, and health-conscious families across Ughelli and beyond.\n\nAll products made fresh to order. No artificial preservatives. No added sugar unless requested. Just pure, wholesome Nigerian goodness.",
+      "imagePrompt": "Grid layout showcase of Nigerian juice and smoothie products: colorful cold-pressed juice bottles labeled with Nigerian fruits, smoothie bowls topped with fresh fruit, elegant cake slices on wooden boards, all arranged on rustic Nigerian wooden table with tropical leaves decoration, bright natural lighting, professional food photography",
       "layout": "grid"
     },
     {
-      "id": "whychooseus",
-      "name": "Why Choose Jolian",
-      "copy": "**Local Expertise, Global Standards** - As a Delta State-based manufacturer, we understand the unique needs of Nigerian businesses while maintaining international quality benchmarks.\n\n**Experienced Team** - Our skilled technicians and engineers bring decades of combined manufacturing experience to every project.\n\n**State-of-the-Art Equipment** - We invest in modern machinery and tools to ensure precision, efficiency, and superior results.\n\n**Timely Delivery** - We respect your deadlines and work diligently to complete projects on schedule without compromising quality.\n\n**Competitive Pricing** - Get exceptional value for your investment with our transparent, competitive pricing structure.\n\n**Customer-Centric Approach** - Your satisfaction is our priority. We maintain open communication and adapt to your specific requirements throughout the production process.",
-      "imagePrompt": "Split image showcasing Nigerian manufacturing excellence: left side shows precision equipment and quality certifications on wall, right side shows happy client shaking hands with Jolian team member in manufacturing facility, professional business atmosphere, natural lighting, photorealistic",
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to experience the freshest cold-pressed beverages in Ughelli? We're here to serve you!\n\nVisit Us: Flat 85 NEPA Estate Ighwre Ovie, Ughelli, Delta State\n\nCall or WhatsApp: 08152733977 / 07047945340\n\nEmail: info@gcelebcakes.com\n\nOpening Hours: Monday - Saturday, 8:00 AM - 7:00 PM\n\nWe deliver across Ughelli North and surrounding communities. Bulk orders for events, offices, and gyms welcome. Same-day delivery available for orders placed before 2:00 PM.\n\nFollow us on social media for daily specials, wellness tips, and exclusive promotions. Your health journey starts with one delicious sip – order today!",
+      "imagePrompt": "Friendly Nigerian delivery person in branded G-Celeb uniform holding insulated bag with cold-pressed juice bottles, standing in front of modern Nigerian residential estate in Delta State, smiling warmly, bright afternoon sunlight, professional courier service aesthetic, photorealistic",
+      "layout": "default"
+    },
+    {
+      "id": "testimonials",
+      "name": "What Our Customers Say",
+      "copy": "\"G-Celeb's cold-pressed orange juice is the best I've tasted in Delta State! You can taste the freshness in every sip. My family is now subscribed for weekly deliveries.\" – Mrs. Blessing O., Ughelli\n\n\"As a fitness enthusiast, I need clean nutrition. Their protein smoothies are perfect post-workout, and the fact that everything is preservative-free gives me peace of mind.\" – Coach Daniel A., Ughelli North\n\n\"Ordered a custom cake for my daughter's birthday and it was absolutely stunning and delicious! The juices for the party were also a huge hit with guests.\" – Mr. Emmanuel U., Delta State\n\n\"G-Celeb transformed our office wellness program. Our staff love the weekly juice deliveries, and productivity has noticeably improved. Highly recommended for corporate bulk orders!\" – HR Manager, Midland Oil Company",
+      "imagePrompt": "Happy Nigerian customers of various ages holding colorful juice bottles and smiling, diverse group including young professionals, fitness enthusiasts, and families, bright outdoor setting in Nigerian neighborhood, genuine expressions of satisfaction, warm community feeling, photorealistic",
       "layout": "cards"
     },
     {
-      "id": "contact",
-      "name": "Contact Us",
-      "copy": "Ready to discuss your manufacturing needs? Get in touch with Jolian Corporate Services today. Our team is available to answer your questions, provide quotes, and schedule consultations.\n\n**Visit Our Facility:**\nFlat 85 Nepa Estate Ighwre Ovie\nUghelli, Delta State\nUghelli North, Nigeria\n\n**Call Us:**\n+234 815 273 3977\n+234 704 794 5340\n\n**Business Hours:**\nMonday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM\nSunday: Closed\n\nWhether you're looking for a one-time project or a long-term manufacturing partnership, we're here to help. Reach out today and let's build something exceptional together.",
-      "imagePrompt": "Welcoming reception area of Nigerian manufacturing company, professional receptionist at modern desk, company logo on wall, comfortable seating area, large windows showing factory floor in background, clean professional environment, Delta State business setting, warm natural lighting, photorealistic",
-      "layout": "centered"
+      "id": "faq",
+      "name": "Frequently Asked Questions",
+      "copy": "How long do your cold-pressed juices last?\nOur juices are fresh and preservative-free, lasting 3-5 days when refrigerated. We recommend consuming within 72 hours for optimal taste and nutrition.\n\nDo you deliver outside Ughelli?\nYes! We deliver across Ughelli North, Ughelli South, and surrounding Delta State communities. Contact us for delivery availability in your area.\n\nCan I customize my smoothie or juice blend?\nAbsolutely! We love creating custom blends. Call or WhatsApp us with your preferred fruits and we'll craft something special for you.\n\nAre your products suitable for diabetics?\nOur cold-pressed juices contain natural fruit sugars. We offer low-sugar options using vegetables and can prepare sugar-free smoothies on request. Please consult your healthcare provider.\n\nWhat's your minimum order for bulk/corporate orders?\nMinimum 20 bottles for corporate deliveries. We offer attractive discounts for weekly subscriptions and large events.\n\nDo you cater for events?\nYes! We provide juice bars, smoothie stations, and fresh cakes for weddings, birthdays, corporate functions, and other celebrations across Delta State.",
+      "imagePrompt": "Clean, modern FAQ visualization with Nigerian juice bottles, fresh tropical fruits, question mark symbols made from fruit slices, bright educational infographic style, wooden background, natural morning light, professional and approachable design, photorealistic",
+      "layout": "default"
     }
   ],
   "contact": {
-    "phone": "+234 815 273 3977",
-    "email": "info@joliancorporate.com",
-    "address": "Flat 85 Nepa Estate Ighwre Ovie, Ughelli, Delta State, Nigeria",
+    "phone": "08152733977",
+    "email": "info@gcelebcakes.com",
+    "address": "Flat 85 NEPA Estate Ighwre Ovie, Ughelli, Delta State",
     "whatsapp": "https://wa.me/2348152733977"
   }
 }
